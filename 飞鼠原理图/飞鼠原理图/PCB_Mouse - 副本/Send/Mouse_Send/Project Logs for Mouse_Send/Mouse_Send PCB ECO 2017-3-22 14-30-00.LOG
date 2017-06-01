@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=KEY0 Pin=U2-69
+Added Pin To Net: NetName=KEY0 Pin=U2-6
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component H2 Header 8
+Added Room: Name=Mouse_Send_SCH

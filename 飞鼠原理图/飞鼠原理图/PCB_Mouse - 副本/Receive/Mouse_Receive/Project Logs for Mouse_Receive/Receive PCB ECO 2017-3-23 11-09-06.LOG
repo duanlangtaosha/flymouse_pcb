@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED1 Pin=U2-64
+Removed Pin From Net: NetName=LED0 Pin=U2-65
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-6
+Added Pin To Net: NetName=LED0 Pin=U2-26
+Added Pin To Net: NetName=LED1 Pin=U2-50
+Added Member To Class: ClassName=Mouse_Receive_SCH Member=Component JTAG2 SWD
+Added Member To Class: ClassName=Mouse_Receive_SCH Member=Component Y1 12MHz
+Added Room: Name=Mouse_Receive_SCH

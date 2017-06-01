@@ -1,0 +1,4 @@
+Added Component: Designator=kk(KEY2)
+Added Pin To Net: NetName=RESET Pin=kk-1
+Added Pin To Net: NetName=GND Pin=kk-2
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component kk KEY3

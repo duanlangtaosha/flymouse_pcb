@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=C18 NewDesignator=C15
+Change Component Designator: OldDesignator=C19 NewDesignator=C16
+Change Component Designator: OldDesignator=DS5 NewDesignator=DS3
+Change Component Designator: OldDesignator=ISP NewDesignator=P4
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=SWD_BLE NewDesignator=JTAG1
+Change Component Designator: OldDesignator=SWD_LPC NewDesignator=JTAG2
+Added Component: Designator=MOS1(SOT-23)
+Added Component: Designator=R15(0603P)
+Added Component: Designator=R16(0603P)
+Added Component: Designator=R18(0603P)
+Added Pin To Net: NetName=VCC_3V3 Pin=MOS1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R16-1
+Change Net Name : Old Net Name=NetDS5_1 New Net Name=NetDS3_1
+Added Pin To Net: NetName=D+ Pin=R12-1
+Added Pin To Net: NetName=D+ Pin=R18-2
+Added Pin To Net: NetName=D+ Pin=USB1-3
+Added Net: Name=D+
+Added Pin To Net: NetName=NetMOS1_1 Pin=MOS1-1
+Added Pin To Net: NetName=NetMOS1_1 Pin=R15-2
+Added Pin To Net: NetName=NetMOS1_1 Pin=R16-2
+Added Net: Name=NetMOS1_1
+Added Pin To Net: NetName=NetMOS1_3 Pin=MOS1-3
+Added Pin To Net: NetName=NetMOS1_3 Pin=R18-1
+Added Net: Name=NetMOS1_3
+Added Pin To Net: NetName=P2_9 Pin=R15-1
+Added Pin To Net: NetName=P2_9 Pin=U2-64
+Added Net: Name=P2_9
+Added Member To Class: ClassName=Mouse_Receive_SCH Member=Component MOS1 SI2301
+Added Member To Class: ClassName=Mouse_Receive_SCH Member=Component R15 1K
+Added Member To Class: ClassName=Mouse_Receive_SCH Member=Component R16 10K
+Added Member To Class: ClassName=Mouse_Receive_SCH Member=Component R19 1M
+Added Room: Name=Mouse_Receive_SCH

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Member From Class: ClassName=Mouse_Send_SCH Member=C14
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component BAT1 BATT
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component U2 LPC1765
+Added Room: Name=Mouse_Send_SCH

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MPU6050_INT0 Pin=U2-61
+Added Pin To Net: NetName=MPU6050_INT0 Pin=U2-76
+Added Room: Name=Mouse_Send_SCH

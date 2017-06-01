@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=DS3-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=DS4-1
+Removed Pin From Net: NetName=LED2 Pin=R14-1
+Removed Pin From Net: NetName=LED3 Pin=R15-1
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=DS3
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=DS4
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=R14
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=R15
+Added Room: Name=Mouse_Receive_SCH

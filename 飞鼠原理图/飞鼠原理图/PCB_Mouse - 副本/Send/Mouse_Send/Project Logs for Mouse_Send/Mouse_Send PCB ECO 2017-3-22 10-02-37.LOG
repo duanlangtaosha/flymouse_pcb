@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=H3-1
+Removed Pin From Net: NetName=GND Pin=H3-2
+Removed Pin From Net: NetName=SCL1 Pin=H3-3
+Removed Pin From Net: NetName=SDA1 Pin=H3-4
+Removed Pin From Net: NetName=GND Pin=H3-7
+Removed Pin From Net: NetName=MPU6050_INT1 Pin=H3-8
+Removed Pin From Net: NetName=SCL1 Pin=R22-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R22-2
+Removed Pin From Net: NetName=SDA1 Pin=R23-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R23-2
+Removed Member From Class: ClassName=Mouse_Send_SCH Member=H3
+Removed Member From Class: ClassName=Mouse_Send_SCH Member=R22
+Removed Member From Class: ClassName=Mouse_Send_SCH Member=R23
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component R1 10K
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component R2 10K
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component R3 33
+Added Room: Name=Mouse_Send_SCH

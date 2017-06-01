@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OSC_32K_IN Pin=C21-2
+Removed Pin From Net: NetName=OSC_32K_OUT Pin=C22-2
+Removed Pin From Net: NetName=OSC_32K_OUT Pin=Y2-1
+Removed Pin From Net: NetName=OSC_32K_IN Pin=Y2-2
+Added Pin To Net: NetName=OSC_32K_OUT Pin=C21-2
+Added Pin To Net: NetName=OSC_32K_IN Pin=C22-2
+Added Pin To Net: NetName=OSC_32K_IN Pin=Y2-1
+Added Pin To Net: NetName=OSC_32K_OUT Pin=Y2-2
+Added Room: Name=Mouse_Send_SCH

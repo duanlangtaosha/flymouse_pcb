@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=GND Pin=K2-2
+Removed Pin From Net: NetName=GND Pin=K3-2
+Removed Pin From Net: NetName=GND Pin=K4-2
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=K1
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=K2
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=K3
+Removed Member From Class: ClassName=Mouse_Receive_SCH Member=K4
+Added Room: Name=Mouse_Receive_SCH

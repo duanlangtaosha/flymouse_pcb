@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=K3 Old Footprint=KEY_M New Footprint=KEY_S
+Change Component Footprint: Designator=K4 Old Footprint=KEY_M New Footprint=KEY_S
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL-D New Footprint=XTAL_US
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component C4 10uF
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component L2 221
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component R14 10K
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component R15 1K
+Added Room: Name=Mouse_Send_SCH

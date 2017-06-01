@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED3 Pin=U2-62
+Removed Pin From Net: NetName=LED2 Pin=U2-63
+Removed Pin From Net: NetName=LED1 Pin=U2-64
+Removed Pin From Net: NetName=LED0 Pin=U2-65
+Added Pin To Net: NetName=LED0 Pin=U2-62
+Added Pin To Net: NetName=LED1 Pin=U2-63
+Added Pin To Net: NetName=LED2 Pin=U2-64
+Added Pin To Net: NetName=LED3 Pin=U2-65
+Added Room: Name=Mouse_Send_SCH

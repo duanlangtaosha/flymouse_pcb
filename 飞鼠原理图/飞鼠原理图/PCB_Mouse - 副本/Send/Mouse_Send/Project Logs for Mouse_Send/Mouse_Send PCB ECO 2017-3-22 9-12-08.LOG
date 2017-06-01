@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=KEY0 Pin=K1-1
+Removed Pin From Net: NetName=KEY0 Pin=K1-1
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=KEY1 Pin=K2-1
+Removed Pin From Net: NetName=KEY1 Pin=K2-1
+Removed Pin From Net: NetName=GND Pin=K2-2
+Removed Pin From Net: NetName=GND Pin=K2-2
+Removed Member From Class: ClassName=Mouse_Send_SCH Member=K3
+Removed Member From Class: ClassName=Mouse_Send_SCH Member=K4
+Change Component Designator: OldDesignator=K3 NewDesignator=K1
+Change Component Designator: OldDesignator=K4 NewDesignator=K2
+Added Component: Designator=B1(Button_Mouse_3)
+Added Component: Designator=B2(Button_Mouse_3)
+Added Pin To Net: NetName=KEY0 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=KEY1 Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component B1 Button_Mouse_3
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component B2 Button_Mouse_3

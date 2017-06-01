@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=KEY2 Pin=K1-1
+Removed Pin From Net: NetName=KEY2 Pin=K1-1
+Removed Pin From Net: NetName=KEY3 Pin=K2-1
+Removed Pin From Net: NetName=KEY3 Pin=K2-1
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component K1 KEY_M
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component K2 KEY_M
+Added Member To Class: ClassName=Mouse_Send_SCH Member=Component RESET1 KEY_M
+Added Room: Name=Mouse_Send_SCH
